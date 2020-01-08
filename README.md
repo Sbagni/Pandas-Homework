@@ -39,32 +39,4 @@ My final report included each of the following:
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
 
-### Top Spenders
-
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
-  * SN
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-
-### Most Popular Items
-
-* Identify the 5 most popular items by purchase count, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
-
-### Most Profitable Items
-
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
-
-
 * See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
-# Heroes of Pymoli
