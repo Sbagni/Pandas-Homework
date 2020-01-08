@@ -1,4 +1,4 @@
-### Pandas-Heroes of Pymoli
+### Pandas - Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)
 
