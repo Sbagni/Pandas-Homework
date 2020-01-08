@@ -1,4 +1,4 @@
-# Pandas-Homework
+# Pandas-Heroes of Pymoli
 ![Fantasy](Images/Fantasy.png)
 
 We were assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
@@ -67,3 +67,4 @@ My final report included each of the following:
 
 
 * See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
+# Heroes of Pymoli
